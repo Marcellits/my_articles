@@ -5,7 +5,7 @@ Example of a basic REST API to perform CRUD functions. Uses PostgreSQL by defaul
 ### INSTALL DEPENDENCIES               
 $ bundle install            
 
-###RUN MIGRATION            
+### RUN MIGRATION            
 $ rails db:migrate             
 
 ### RUN SERVER           
